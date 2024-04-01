@@ -19,3 +19,4 @@ Backend Developer, Open Source Library Developer(Wannabe)
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=recoma)](https://solved.ac/recoma)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Vector-7?theme=unicorn)
