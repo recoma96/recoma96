@@ -1,7 +1,5 @@
 ![](profile.png)
 
-Backend Developer, Open Source Library Developer(Wannabe)
-
 
 ### 쓸줄 알음
 
@@ -19,15 +17,3 @@ Backend Developer, Open Source Library Developer(Wannabe)
 ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-### 공부 중임
-
-![](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=recoma)](https://solved.ac/recoma)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Vector-7?ext=activity)
