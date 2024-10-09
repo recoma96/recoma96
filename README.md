@@ -7,7 +7,7 @@
 * I am **Backend Developer**. Build server by using **python**. But, **Sometimes others**. (NodeJS, Golang etc..)
 * My main language is **python**. But, I like to study and use **other lagnuages**.
 * I persue to track errors and performace by **using Test Codes**.
-* I am interested In **FE**. So, I can using **React, Zustand and TailwindCSS**.
+* I am interested In **FE**. So, I can using **React, NextJS and TailwindCSS**.
 * I have romance developing **embeded system firmware**.
 * I like **composing classika Music.** and **researching about harmonics**.
 * My Account has experimental developments. If you want to see my toy-projects, Please goto [here](https://github.com/sweetcase-production)
