@@ -10,7 +10,7 @@
 * I am interested In **FE**. So, I can using **React, NextJS and TailwindCSS**.
 * I have romance developing **embeded system firmware**.
 * I like **composing classika Music.** and **researching about harmonics**.
-* My Account has experimental developments. If you want to see my toy-projects, Please goto [here](https://github.com/sweetcase-production)
+* My Account has only experimental developments. If you want to see my toy-projects, Please goto [here](https://github.com/sweetcase-production)
 
 
 <div align="center">
