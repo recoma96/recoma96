@@ -4,7 +4,7 @@
 <h2>IntroductioN</h2>
 </div>
 
-* I am **Backend Developer**. Build server by using **python**. But, **Sometimes others**. (NodeJS, Golang etc..)
+* I am **Backend Developer**. Building server by using **python**. But, **Sometimes others**. (NodeJS, Golang etc..)
 * My main language is **python**. But, I like to study and use **other lagnuages**.
 * I persue to track errors and performace by **using Test Codes**.
 * I am interested In **FE**. So, I can using **React, NextJS and TailwindCSS**.
