@@ -9,7 +9,7 @@
 * I persue to track errors and performace by **using Test Codes**.
 * I am interested In **FE**. So, I can using **React, NextJS and TailwindCSS** too.
 * I have romance developing **embeded system firmware**.
-* I like **composing Music.** (Classic Based)
+* I like **composing Music.**
 * My Account has only experimental developments. If you want to see my toy-projects, Please goto [here](https://github.com/sweetcase-production)
 
 
