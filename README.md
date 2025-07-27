@@ -6,14 +6,12 @@
   <h2>👋 Introduction</h2>
 </div>
 
-- **Python** is my main language, but I'm happy to work with any tech stack that gets the job done.
-- Enjoy writing **testable, maintainable code** — tests help prevent side effects and preserve sanity.
-- Believe in **clear documentation** as a tool for communication and memory.
-- Curious about **frontend development** — familiar with **React**, **Next.js**, and **TailwindCSS**.
-- Have a soft spot for **embedded systems** and love building low-level firmware when I can.
-- Also enjoy **composing music**, and **hiking** because why not?
-- This GitHub houses experimental and toy projects.  
-  For more complete work, visit 👉 [this](https://github.com/sweetcase-production)
+- **Python**을 주력 언어로 사용하고, **Django**를 주력 프레임워크로 사용합니다. 하지만 다른 언어, 다른 프레임워크도 언제나 환영입니다. 과거에는 **Golang**과 **NodeJS** 기반의 백엔드 개발을 학습 및 구현한 적이 있었습니다.
+- **테스트 코드** 를 사용하는 것을 좋아합니다. 확장개발 시 발생하는 사이드이펙트를 감지하기 위해 주로 사용합니다.
+- **개발에 관한 문서화**를 중요시 생각합니다. 문서화는 단순한 기록을 넘어서, 개발자들 간의 **핵심 소통 수단이자** 지식 전달의 기반이라고 생각합니다.
+- **프론트엔드** 개발환경에도 관심이 있습니다. ReactJS를 인턴시절에 처음 접해봤으며, 지금도 가끔씩 **NextJS**, **TailwindCSS** 같은 도구로 웹페이지를 만들 때도 있습니다.
+- 취미는 **작곡**과 **등산** 입니다.
+- 개인 Github에서는 실험적인 프로젝트 또는 연습용 리포지토리가 주를 이룹니다. 토이 프로젝트들을 보고 싶다면 [이 링크](https://github.com/sweetcase-production)를 방문해 주세요
 
 ---
 
