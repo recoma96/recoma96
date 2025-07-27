@@ -32,9 +32,6 @@
   <h2>🧪 Secondary</h2>
 </div>
 
-![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
-![](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
-![](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
-![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)  
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
+![](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)  
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
