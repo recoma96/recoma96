@@ -11,7 +11,7 @@
 - Believe in **clear documentation** as a tool for communication and memory.
 - Curious about **frontend development** — familiar with **React**, **Next.js**, and **TailwindCSS**.
 - Have a soft spot for **embedded systems** and love building low-level firmware when I can.
-- Also enjoy **composing music**, because why not?
+- Also enjoy **composing music**, and **hiking** because why not?
 - This GitHub houses experimental and toy projects.  
   For more complete work, visit 👉 [this](https://github.com/sweetcase-production)
 
