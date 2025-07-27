@@ -6,8 +6,7 @@
   <h2>👋 Introduction</h2>
 </div>
 
-- Backend developer with a strong focus on **Python**.  
-  Occasionally work with **Node.js**, **Golang**, and other technologies when needed.
+- **Python** is my main language, but I'm happy to work with any tech stack that gets the job done.
 - Enjoy writing **testable, maintainable code** — tests help prevent side effects and preserve sanity.
 - Believe in **clear documentation** as a tool for communication and memory.
 - Curious about **frontend development** — familiar with **React**, **Next.js**, and **TailwindCSS**.
