@@ -16,9 +16,11 @@
 
 ### Proceeding
 * **Project Trailine** - Guiding And Analyzing Hiking Courses
+  * [Kanban Board](https://github.com/users/recoma96/projects/5)
   * [custom-trail-course-guide](https://github.com/recoma96/trail-course-guide): GPX파일 기반 하이킹 코스 에디터 (메인서비스 UI 프로토타입)
   * [trailine-service](https://github.com/recoma96/trailine): 메인 서비스 (백엔드 / 프론트엔드)
   * [trailine-research](https://github.com/recoma96/trailine-research): 코스 분석 및 통계 연구 리포지토리
+
 
 ### Done
 * [Lollineon](https://github.com/sweetcase-production/lollineon) - The jeyll theme with lollipop & neon style
