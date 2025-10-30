@@ -9,8 +9,8 @@
 * 취미는 하이킹과 작곡 입니다<br>
 
 ## Carear
-* ScalarData | Python Backend Developer | (2022.09.19 ~ ) | +3 years
-* Archisketch | Python Developer (Intern) | (2020.09.01 ~ 2020.12.31) | 4 months
+* ScalarData | Python Backend Developer | 2022.09.19 ~ current | +3 years
+* Archisketch | Python Developer (Intern) | 2020.09.01 ~ 2020.12.31 | 4 months
 
 ## Projects
 
