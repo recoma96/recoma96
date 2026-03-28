@@ -17,7 +17,7 @@
 ### Proceeding
 * **[Project Trailine](https://github.com/users/recoma96/projects/5)** - Guiding And Analyzing Hiking Courses
   * [trailine-service](https://github.com/recoma96/trailine): 메인 서비스 (백엔드 / 프론트엔드)
-  * [trailgrapher](https://github.com/recoma96/trailgrapher): 코스 편집기
+  * [trailgrapher](https://github.com/recoma96/trailgrapher): 코스 편집기 (90% AI Agent 기반 개발)
 
 
 ### Done
