@@ -42,4 +42,4 @@
 * AWS (EC2, RDS, S3, Lambda, IAM etc..)
 * _Javascript x Typescript_
 * _React_
-* _Gemini CLI_
+* _Codex | Claude Code_
