@@ -48,3 +48,4 @@
 # 🎯Interests
 * GIS (PostGIS, GPS, etc...)
 * ML (Machine Learning)
+* Computer Vision
