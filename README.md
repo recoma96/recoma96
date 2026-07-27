@@ -35,7 +35,7 @@
 * 코스 정보 및 난이도 제공
 * 사용자 맞춤 루트 편집
 * PinLog에서 수집한 데이터 활용
-* **Tech:** FastAPI · React · PostgreSQL · Docker
+* **Tech:** FastAPI · React · PostgreSQL · Docker · Tauri(GPX Editor)
 
 ### Repository
 - [🌐 Web Service](https://github.com/recoma96/trailine)
