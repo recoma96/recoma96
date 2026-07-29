@@ -42,7 +42,7 @@
 - [🛠 GPX Editor](https://github.com/recoma96/trailgrapher)
 
 # 🛠Tech Stacks
-* **Core**: **Python**, Django, Flask, MySQL, Redis, Celery, AWS(EC2, RDB, Lambda, etc...), Docker
+* **Core**: **Python**, Django, MySQL, Redis, Celery, AWS(EC2, RDB, Lambda, etc...), Docker
 * **Expanding**: **FastAPI**, **Typescript**, NestJS, PostgreSQL, React(Web, Native)
 
 # 🎯Interests
