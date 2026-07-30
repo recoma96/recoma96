@@ -26,18 +26,6 @@
 ### Repository
 * Private (초기 개발 진행중)
 
-## 💰 MyStockDiary
-주식 포트폴리오 데이터를 하루 1회 자동 수집하고, React 기반의 웹 대시보드에서 시각화
-
-🟢 진행 중
-> 두개 이상의 증권앱을 번갈아서 보는 불편함을 해소하기 위해 하나의 웹에 합쳐서 시각화 하는 것이 목표
-* 매일 오전 06시마다 AWS Lambda (Python)를 이용해 데이터를 수집
-* 종가 기준 주가, 배당, 실현손익, 포트폴리오 변화, 수익률 등을 수집
-* Astro 기반의 웹 대시보드를 통해 시각화
-* **Tech** Python, Astro, AWS(S3, Lambda, EventBridge)
-
-### Repository
-* Private (초기 개발 진행중)
 
 ## 🥾Trailine
 하이킹 및 트레킹 가이드 서비스
