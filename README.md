@@ -6,7 +6,6 @@
 # 👋Introduction
 * Python 기반의 백엔드 개발을 주로 해왔으나. 다른 분야에 대한 학습도 좋아합니다.<br>
 * 어떤 것이든 좋지만, 취미와 관심있는 것들을 위주로 개발하는걸 좋아합니다<br>
-* 현재 GIS 기술을 사용한 프로젝트를 진행하고 있습니다. 위치 데이터 활용에 관심이 많습니다.
 
 # 📓Carear
 * ScalarData | Python Backend Developer | 2022.09.19 ~ 2026.04.30 | 3 years 7 months
