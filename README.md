@@ -18,7 +18,7 @@
 
 🟢 진행 중
 > Trailine 서비스에서 사용할 위치 데이터를 수집하기 위한 Android 기반 어플리케이션
-* GPS 기반 우치 데이터 및 현장 정보 수집
+* GPS 기반 위치 데이터 및 현장 정보 수집
 * 메모, 사진, 영상 등록 및 웹 다운로드 지원
 * 기존 서비스(램블러, 트랭글)의 용량 한계를 보완한 데이터 수집 특화
 * **Tech:** NestJS · TypeScript · PostgreSQL · React Native · Docker
