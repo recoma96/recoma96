@@ -16,7 +16,7 @@
 ## 📈MyStocks Data Collector
 투자 데이터 수집·적재 배치 인프라
 
-✅ 운영 중 (유지보수·개선 진행 중)
+✅ 운영 중
 > 토스증권 계좌의 보유 종목·수익률·매수/매도 내역을 주기적으로 수집해 S3에 적재하는 개인 프로젝트 MyStocks의 데이터 수집·배치 인프라
 * 토스증권 OpenAPI를 async로 병렬 호출해 보유 종목, 수익률, 비교군(VOO/QQQ) 시세, 체결 내역 수집
 * S3 + Parquet 데이터 인프라 구축, DuckDB로 SQL 가공 후 view JSON 생성
