@@ -31,8 +31,3 @@
 # 🛠Tech Stacks
 * **Core**: **Python**, Django, MySQL, Redis, Celery, AWS(EC2, RDB, Lambda, etc...), Docker
 * **Expanding**: **FastAPI**, **Typescript**, NestJS, PostgreSQL, React(Web, Native)
-
-# 🎯Interests
-* GIS (PostGIS, GPS, etc...)
-* ML (Machine Learning)
-* Computer Vision
