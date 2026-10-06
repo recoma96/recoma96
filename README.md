@@ -28,6 +28,18 @@
 - [📊 Data Collector](https://github.com/recoma96/mystocks-data-collector)
 - [🌐 Web Dashboard](https://github.com/recoma96/mystocks)
 
+## 🥾 [WalkRoadMap](https://github.com/walkroadmap)
+위치·도보 코스 데이터 수집 및 관리 플랫폼
+
+🚧 개발 중
+> 여행 명소와 등산·트레킹 등 도보 코스 데이터를 수집하고, 향후 다양한 서비스와 자동화에 활용하기 위한 위치 데이터 플랫폼
+
+* 위치 및 도보 코스 데이터를 수집·관리하기 위한 Internal Product 개발
+* 데이터 수집 API를 중심으로 Backend부터 개발 진행
+* 사용 빈도가 높지 않은 내부 API 특성을 고려해 EC2 대신 AWS Lambda 기반 Serverless 구조 적용
+* 향후 수집 데이터를 기반으로 코스 탐색 및 데이터 자동화 및 기반 서비스 개발 예정
+* **Tech:** Python · AWS Lambda
+
 # 🛠Tech Stacks
 * **Core**: **Python**, Django, MySQL, Redis, Celery, AWS(EC2, RDB, Lambda, etc...), Docker
 * **Expanding**: **FastAPI**, **Typescript**, NestJS, PostgreSQL, React(Web, Native)
